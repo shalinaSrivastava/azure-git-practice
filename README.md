@@ -20,3 +20,11 @@ project files using Git commands.
 
 I will learn how to track changes, create commits,
 and manage branches for Azure DevOps projects.
+## Development Environment
+
+This branch is used for development work.
+
+I created variables.tf to define Terraform variables
+for my Azure project.
+
+These changes are being made on the dev branch.
