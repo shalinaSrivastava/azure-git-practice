@@ -35,3 +35,5 @@ I am currently practicing Git stash.
 
 This note is not completed yet.
 I will continue working on it later.
+
+I am learning how to save unfinished work using Git stash.
