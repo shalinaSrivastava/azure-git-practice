@@ -28,3 +28,10 @@ I created variables.tf to define Terraform variables
 for my Azure project.
 
 These changes are being made on the dev branch.
+
+## Unfinished Development Note
+
+I am currently practicing Git stash.
+
+This note is not completed yet.
+I will continue working on it later.
